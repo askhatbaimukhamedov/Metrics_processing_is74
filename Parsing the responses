@@ -1,0 +1,17 @@
+
+1) Settings structure
+    {
+		'Version': 2.21, 
+		'Serial num': 112121.0, 
+		'C delta': 0.001, 
+		'Day count': 25, 
+		'Config': 1, 
+		'C level P': 0, 
+		'Current min': 6, 
+		'Current hour': 0, 
+		'Current day': 11, 
+		'Current month': 1, 
+		'Current year': 20
+	}
+	
+....... to be continued .........
